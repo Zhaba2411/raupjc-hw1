@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Assignment3Tests
+namespace Task3
 {
     public class GenericList <T> : IGenericList<T>
     {

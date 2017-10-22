@@ -1,4 +1,4 @@
-﻿namespace Assignment2Tests
+﻿namespace Task2
 {
     interface IGenericList <T>
     {

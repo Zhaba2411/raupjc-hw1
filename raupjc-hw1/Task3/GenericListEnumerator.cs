@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 
-namespace Assignment3Tests
+namespace Task3
 {
     class GenericListEnumerator<T> : IEnumerator<T>
 

@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Assignment3Tests
+namespace Task3
 {
     public interface IGenericList <T> : IEnumerable<T>
     {

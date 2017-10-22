@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace Assignment2Tests
+namespace Task2
 {
     class GenericList <T> : IGenericList<T>
     {

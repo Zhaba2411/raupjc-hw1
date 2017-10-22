@@ -1,13 +1,7 @@
 ﻿using System;
-using System.CodeDom.Compiler;
-using System.Collections.Generic;
 using System.Linq;
-using System.Runtime.CompilerServices;
-using System.Runtime.Remoting.Messaging;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace Assignment1Tests
+namespace Task1
 {
      public class IntegerList : IIntegerList
      {

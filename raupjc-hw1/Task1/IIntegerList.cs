@@ -1,4 +1,4 @@
-﻿namespace Assignment1Tests
+﻿namespace Task1
 {
     public interface IIntegerList
     {
